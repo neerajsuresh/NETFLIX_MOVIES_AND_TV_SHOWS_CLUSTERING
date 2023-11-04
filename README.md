@@ -45,4 +45,5 @@ At the end, we can conclude that:
 6. Using this data, a Content-based recommender system was created using cosine similarity, which provided recommendations for Movies and TV shows.
 
 ## **FUTURE WORK**
-Integrating this dataset with external sources such as IMDB ratings and books clustering can lead to numerous intriguing discoveries. By incorporating additional data, a more comprehensive recommender system could be developed, offering enhanced recommendations to users. This system could then be deployed on the web for widespread usage.
+- Integrating this dataset with external sources such as IMDB ratings can lead to numerous intriguing discoveries.
+- This system could then be deployed on the web for widespread usage.
