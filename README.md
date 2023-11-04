@@ -1,9 +1,9 @@
 # NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
 
-**OBJECTIVE**
+## **OBJECTIVE**
 The objective of this project is to analyze and cluster a dataset related to Netflix. The dataset consists of various attributes associated with Netflix shows and movies, such as title, genre, release year, duration, rating, and others. The aim is to explore patterns and similarities among the content available on the platform and group them into meaningful clusters.
 
-**DATASET**
+## **DATASET**
 This dataset contains information about various TV shows and movies available on Netflix, including details like the production country, release year, rating, duration, genre, and a description of each title. It consists of 12 columns and 7787 rows.
 
 **VARIABLE DESCRIPTION**
@@ -20,7 +20,7 @@ This dataset contains information about various TV shows and movies available on
 - **listed_in**: Genre
 - **description**: The Summary description
 
-**CORE OF THE PROJECT**
+## **STRUCTURE OF THE PROJECT**
 To start, the dataset will be preprocessed by handling missing values, removing irrelevant columns, and transforming categorical variables into numerical representations.
 
 Next, exploratory data analysis (EDA) techniques will be utilized to gain insights into the dataset. Visualizations and statistical summaries will be used to understand the distribution of variables, identify trends, and explore relationships between different features.
@@ -33,7 +33,7 @@ After the clustering process, the results will be evaluated and interpreted. The
 
 Finally, the findings and insights from the clustering analysis will be summarized and presented in a clear and concise manner. Visualizations, charts, and graphs will be used to effectively communicate the outcomes of the project. Recommendations may also be provided based on the identified clusters, suggesting potential improvements or strategies for Netflix to enhance user experience and content offerings.
 
-**CONCLUSION**
+## **CONCLUSION**
 In conclusion, this project aims to analyze a Netflix dataset, perform clustering techniques to group similar shows and movies together, and provide insights and recommendations based on the clustering results. The project will contribute to a better understanding of Netflix's content landscape and aid in decision-making processes for the company.
 
 At the end, we can conclude that:
@@ -44,5 +44,5 @@ At the end, we can conclude that:
 5. The value of k=5 was found to be optimal for clustering the data.
 6. Using this data, a Content-based recommender system was created using cosine similarity, which provided recommendations for Movies and TV shows.
 
-**FUTURE WORK**
+## **FUTURE WORK**
 Integrating this dataset with external sources such as IMDB ratings and books clustering can lead to numerous intriguing discoveries. By incorporating additional data, a more comprehensive recommender system could be developed, offering enhanced recommendations to users. This system could then be deployed on the web for widespread usage.
